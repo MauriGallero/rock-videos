@@ -5,7 +5,7 @@
 Pagina tributo al rock de los 70', 80' y 90' hecha para el curso de FreeCodeCamp y hosteada en GitHub Pages.
 
 ### 🔗 Demo en vivo
-**https://TU_USUARIO.github.io/rock-videos/**
+**https://maurigallero.github.io/rock-videos/**
 
 ### 🎬 Videos incluidos
 - **70' - Pink Floyd - Time** - Escucha ese solo... te vuela la PELUCA
@@ -18,7 +18,7 @@ Pagina tributo al rock de los 70', 80' y 90' hecha para el curso de FreeCodeCamp
 - YouTube Embed API
 
 ### 🚀 Como usarlo local
-1. Clona el repo: `git clone https://github.com/TU_USUARIO/rock-videos.git`
+1. Clona el repo: `git clone https://github.com/MauriGallero/rock-videos.git`
 2. Abri `index.html` en tu navegador
 
-Hecho con ❤️ y mucho rock - 2026
+Hecho con ❤️ y mucho rock - 2026 - MauriGallero
